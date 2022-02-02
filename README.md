@@ -33,6 +33,8 @@ export default Arjumnr = {
   ]
 };
 
+```
+
 ### SOCIAL MEDIA 
 [<code>
 <img alt="Fihaa | Facebook" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/facebook.svg" />
