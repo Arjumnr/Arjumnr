@@ -30,7 +30,8 @@ export default Arjumnr = {
                     'anime',
                     'anrnime',
                     'quotesOfTheDay'
-                  ]
+                  ],
+   motto       : 'Jangan jadi pembicara jika tak mampu jadi pendengar! Jangan lupa jadi bermanfaat',
 };
 
 ```
