@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ```FLutter
 
-export default Arjumnr = {
+Widget Arjumnr = {
   name          : 'Arjum',
   username      : 'Arjumnr',
   organization  : 'DipanegaraComputerClub || MIB-Ade'Pitue',
