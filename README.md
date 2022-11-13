@@ -17,21 +17,23 @@ Here are some ideas to get you started:
 
 ```FLutter
 
-Widget Arjumnr = {
-  name          : 'Arjum',
-  username      : 'Arjumnr',
-  organization  : 'DipanegaraComputerClub || MIB-Ade'Pitue',
-  city          : 'Bone, Makassar, 🇮🇩',
-  lang          : ['bugis','id', 'en'],
-  interests     : [
-                    'ONE PIECE'
-                    'functionalprogramming',
-                    'OOP',
-                    'anime',
-                    'anrnime',
-                    'quotesOfTheDay'
-                  ],
-   motto       : 'Jangan jadi pembicara jika tak mampu jadi pendengar! Jangan lupa jadi bermanfaat',
+Widget Arjumnr() =>{
+    return Text(
+        name          : 'Arjum',
+        username      : 'Arjumnr',
+        organization  : 'DipanegaraComputerClub || MIB-Ade'Pitue',
+        city          : 'Bone, Makassar, 🇮🇩',
+        lang          : ['bugis','id', 'en'],
+        interests     : [
+                          'ONE PIECE'
+                          'functionalprogramming',
+                          'OOP',
+                          'anime',
+                          'anrnime',
+                          'quotesOfTheDay'
+                        ],
+         motto       : 'Jangan jadi pembicara jika tak mampu jadi pendengar! Jangan lupa jadi bermanfaat'
+    );
 };
 
 ```
