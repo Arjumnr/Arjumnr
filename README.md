@@ -3,18 +3,16 @@
 ```flutter
 Widget Arjumnr() {
     return Text(
-        name          : 'Arjum',
-        username      : 'Arjumnr',
-        organization  : 'Dipanegara Computer Club || MIB-Ade\'Pitue',
+        name          : 'Arjum Nur Ramadhan',
+        username      : 'arjum_nr',
+        organization  : 'Dipanegara Computer Club || Mahasiswa Informatika Bone Ade'Pitue',
         city          : 'Bone, Makassar, 🇮🇩',
         lang          : ['bugis', 'id', 'en'],
         interests     : [
-                          'ONE PIECE',
                           'functional programming',
                           'OOP',
                           'anime',
-                          'anrnime',
-                          'quotes of the day'
+                          'ONE PIECE',
                         ],
         motto         : 'Jangan jadi pembicara jika tak mampu jadi pendengar! Jangan lupa jadi bermanfaat'
     );
