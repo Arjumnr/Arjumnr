@@ -15,34 +15,28 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-```FLutter
-
-Widget Arjumnr() =>{
+```flutter
+Widget Arjumnr() {
     return Text(
         name          : 'Arjum',
         username      : 'Arjumnr',
-        organization  : 'DipanegaraComputerClub || MIB-Ade'Pitue',
+        organization  : 'Dipanegara Computer Club || MIB-Ade\'Pitue',
         city          : 'Bone, Makassar, 🇮🇩',
-        lang          : ['bugis','id', 'en'],
+        lang          : ['bugis', 'id', 'en'],
         interests     : [
-                          'ONE PIECE'
-                          'functionalprogramming',
+                          'ONE PIECE',
+                          'functional programming',
                           'OOP',
                           'anime',
                           'anrnime',
-                          'quotesOfTheDay'
+                          'quotes of the day'
                         ],
-         motto       : 'Jangan jadi pembicara jika tak mampu jadi pendengar! Jangan lupa jadi bermanfaat'
+        motto         : 'Jangan jadi pembicara jika tak mampu jadi pendengar! Jangan lupa jadi bermanfaat'
     );
-};
+}
 
 ```
 
 ### SOCIAL MEDIA 
-[<code>
-<img alt="anr | Facebook" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/facebook.svg" />
-</code>](https://www.facebook.com/Arjumnurramadhan/)
-[<code>
-<img alt="anr | Instagram" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</code>](https://www.instagram.com/arjum_nr/)
-<br/>
+<code> <img alt="anr | Facebook" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/facebook.svg" /> </code> <code> <img alt="anr | Instagram" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /> </code>
+
